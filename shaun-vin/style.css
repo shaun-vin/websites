@@ -1,0 +1,90 @@
+html,body
+{
+	background-size: cover;
+	background-image: url(img_4.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-color:  #cccccc;
+	height: 100%;
+}
+::-webkit-scrollbar {
+display: none;
+}
+#name{
+	float: left;
+	margin-top: 7%;
+	margin-left: 5%;
+	line-height: 0;
+}
+#name .head{
+	color: #b3b3b3;
+	font-family: 'Open Sans Condensed','Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 35px;
+	text-transform: uppercase;
+	word-spacing: 4px;
+	letter-spacing: 2px;
+	background-color: #1a75ff;
+}
+#name .name1{
+	font-family: 'Open Sans Condensed', 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 50px;
+	color: #737373;
+	text-transform: uppercase;
+	word-spacing: 4px;
+	letter-spacing: 2px;
+}
+#name .work{
+	font-family: 'Open Sans Condensed', 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	color: #b3b3b3;
+	text-transform: uppercase;
+	word-spacing: 4px;
+	letter-spacing: 2px;
+}
+#name .hr_1{
+	width: 10%;
+	margin-top: -11px;
+	margin-left: 1px;
+	color: #d9d9d9;
+}
+#name .eh{
+	font-family: 'Open Sans Condensed', 'Roboto', sans-serif;
+	font-weight: 400;
+	padding-top: 18px;
+	font-size: 15px;
+	color: #737373;
+	text-transform: uppercase;
+	word-spacing: 4px;
+	letter-spacing: 2px;
+}
+#name .cont{
+	font-family: 'Open Sans Condensed', 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	color: #b3b3b3;
+	padding-top: 8px;
+	text-transform: uppercase;
+	word-spacing: 4px;
+	letter-spacing: 2px;
+}
+#name .hr_2{
+	width: 10%;
+	margin-top: -11px;
+	margin-left: 1px;
+	color: #d9d9d9;
+}
+#name .mail{
+	font-family: 'Open Sans Condensed', 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	padding-top: 13px;
+	color: #737373;
+	text-transform: uppercase;
+	word-spacing: 4px;
+	letter-spacing: 2px;
+}
+
